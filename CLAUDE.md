@@ -14,7 +14,7 @@ Live site (GitHub Pages, branch `main`, root): https://areg06.github.io/kursayin
 | `TMM_Variant1.html` | Main page (generated — do not hand-edit) |
 | `bacatrutyun.html` | Step-by-step explanation page (generated — do not hand-edit) |
 | `chertej_A3_1.*`, `chertej_A3_2.*` | The two A3 drawing sheets as SVG / PNG / PDF (generated) |
-| `index.html` | Redirect to `TMM_Variant1.html` |
+| `index.html` | Hand-written home page: choose the work (`TMM_Variant1.html`) or the explanation (`bacatrutyun.html`) |
 | `source/model.py` | Task data (`DATA` dict), chosen constants (scales μ, β, α…), geometry + kinematics |
 | `source/calc.py` | Rounded values "as a student writes them in the notebook" (`n()` formats with a comma decimal) |
 | `source/sheet.py` | SVG of the A3 sheets: `build()` = sheet 1, `build2()` = sheet 2 (velocity plans) |
